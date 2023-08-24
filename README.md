@@ -6,7 +6,7 @@ Python Code Jam 2023 qualifier answer by me
 ```console
 
 cd qualifier
-python -m unittest
+python -m unittest tests.py
 
 ```
 
