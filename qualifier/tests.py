@@ -78,7 +78,7 @@ class ValidInputTest(unittest.TestCase):
         qualifier.valid_input = unittest.mock.Mock(return_value=True)
 
         qualifier.rearrange_tiles(
-            self.images[0].unscrambled_image_path, self.images[0].tile_size, self.images[0].ordering,
+            self.images[0].scrambled_image_path, self.images[0].tile_size, self.images[0].ordering,
             "images/user_output.png"
         )
 

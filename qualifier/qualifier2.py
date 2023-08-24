@@ -61,7 +61,7 @@ def rearrange_tiles(image_path: str, tile_size: tuple[int, int], ordering: list[
 
                 new_ind += 1
 
-        dst.save(out_path)
+        dst.save('./images/user_output.png')
 
 
     else:
