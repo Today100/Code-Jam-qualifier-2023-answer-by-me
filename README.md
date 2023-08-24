@@ -1,4 +1,16 @@
-# Code Jam 2023: Qualifier
+# Code-Jam-qualifier-2022-answer-by-me
+Python Code Jam 2022 qualifier answer by me
+
+### To Run:
+
+```console
+
+cd qualifier
+python -m unittest
+
+```
+
+### Expectation/Rules
 
 To qualify for the upcoming Code Jam, you'll have to complete a qualifier assignment. The goal is to make sure you have enough Python knowledge to effectively contribute to a team.
 
